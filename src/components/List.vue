@@ -28,7 +28,8 @@ export default {
   name: "List",
   data() {
     return {
-      song_list: []
+      song_list: [],
+      data:[]
     };
   },
   props: {
